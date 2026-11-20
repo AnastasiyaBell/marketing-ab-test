@@ -1,0 +1,8 @@
+﻿# Keep downloaded data and generated local output out of version control.
+data/
+*.csv
+results/
+
+.venv/
+.ipynb_checkpoints/
+__pycache__/
